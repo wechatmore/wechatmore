@@ -1,6 +1,7 @@
 {
     "files":{
-        "WechatMore.exe":"0.0.0.2",
-        "WechatMoreCore.dll":"0.0.0.3"
-    }
+        "WechatMore.exe":"0.0.0.3",
+        "WechatMoreCore.dll":"0.0.0.4"
+    },
+    "signature":"1a30b64f99db68638aeda3ded6540440"
 }
